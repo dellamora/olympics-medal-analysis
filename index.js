@@ -81,8 +81,6 @@ let olympicsMedalTable = [
   },
 ];
 
-/* DESAFIOS - CONCLUA AS FUNÇÕES customSome, customFind E UTILIZANDO TODAS AS FUNÇÕES 'CUSTOM' CONCLUA OS DESAFIOS ABAIXO: */
-
 // 1 - Crie um algoritmo que encontre o único pais do continente Africano
 // const paisAfricano =  <seu código aqui>;
 // console.log(paisAfricano);
